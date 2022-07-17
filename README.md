@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="80" alt="sass logo" title="SASS" />
 </div>
 
-<br><br>
 <div align="left">
 <h3>Backend and others</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="80" alt="csharp logo" title="CSharp" />
