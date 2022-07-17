@@ -10,7 +10,6 @@
 - ⚡ Fun fact I Have a gecko!🦎
 
 
-<br><br>
 ## 👨‍💻&nbsp; Tecnologies
 <div align="left">
 <h3>Frontend</h3>
