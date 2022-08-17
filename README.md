@@ -10,7 +10,7 @@
 - ⚡ Fun fact I Have a gecko!🦎
 
 
-## 👨‍💻&nbsp; Tecnologies
+## 👨‍💻&nbsp; Technologies
 <div align="left">
 <h3>Frontend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="80" alt="javascript logo" title="Javascript" />
