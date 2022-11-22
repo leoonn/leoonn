@@ -5,7 +5,7 @@
 
 - 🔥 Junior Software Developer 
 
-- 🔭 I’m currently working at NOVA VIDA TI
+- 🔭 I’m currently working at Tecnobank
 
 - ⚡ Fun fact I Have a gecko!🦎
 
